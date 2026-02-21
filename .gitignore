@@ -1,1 +1,9 @@
 data/
+aclImdb/
+model/weights.pt
+model/tokenizer/
+model/history.json
+__pycache__/
+*.pyc
+.venv/
+SentimentScope_starter.ipynb
