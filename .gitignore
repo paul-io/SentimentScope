@@ -6,4 +6,4 @@ model/history.json
 __pycache__/
 *.pyc
 .venv/
-SentimentScope_starter.ipynb
+
